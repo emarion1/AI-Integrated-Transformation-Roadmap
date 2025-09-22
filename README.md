@@ -8,12 +8,14 @@ This repository provides a systematic approach to evolving Agile practices and t
 
 ## Core Philosophy
 
-Our approach is built on the principle that **AI should enhance human collaboration and decision-making, not replace it**. We focus on:
+Our approach is built on the principle that **AI should enhance human collaboration and decision-making, not replace it**. We focus on evolving the Agile Manifesto with AI enhancement:
 
-- **Individuals and Interactions** enhanced by AI insights
-- **Working Software** delivered faster through AI-augmented workflows
-- **Customer Collaboration** amplified by AI-powered feedback analysis
-- **Responding to Change** accelerated through AI-powered pattern recognition
+- **AI-Augmented Individuals and Interactions** over AI-driven processes and tools
+- **AI-Accelerated Working Software** over AI-generated comprehensive documentation
+- **AI-Amplified Customer Collaboration** over AI-mediated contract negotiation
+- **AI-Powered Responding to Change** over AI-optimized following a plan
+
+📖 See our complete [AI-Agile Manifesto Evolution](docs/overview/ai-agile-manifesto-evolution.md) for detailed comparison and implementation guidance.
 
 ## What's Inside
 
