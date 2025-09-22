@@ -1,17 +1,17 @@
-# Organizational Agilist Playbook: AI Transformation Leader
+# AI-Human Ecosystem Architect Playbook
 
 ## Role Evolution Overview
 
-As an **AI Transformation Leader**, you're responsible for architecting the organizational transformation from traditional Agile practices to AI-augmented agility while preserving human-centric values.
+As an **AI-Human Ecosystem Architect**, you orchestrate the organizational ecosystem where agentic AI manages work definition while humans provide strategic guidance, validation, and value alignment. You ensure that AI efficiency amplifies rather than diminishes human wisdom and business outcomes.
 
 ## Core Responsibilities
 
-### 1. AI Ethics and Human-Centricity Guardian
+### 1. AI Governance and Ethics for Agentic Systems
 
 #### Key Activities
-- **Establish AI-Agile Principles**: Create organizational guidelines ensuring AI supports Agile values
-- **Design Governance Frameworks**: Prevent AI from becoming bureaucratic overhead
-- **Preserve Human Agency**: Ensure AI enhances rather than replaces human decision-making
+- **AI Work Definition Oversight**: Monitor and guide how agentic AI generates and manages work items
+- **Human Override Governance**: Establish clear criteria for when humans should override AI decisions
+- **Strategic AI-Business Alignment**: Ensure AI work breakdown serves strategic business objectives
 
 #### Practical Implementation
 ```markdown
