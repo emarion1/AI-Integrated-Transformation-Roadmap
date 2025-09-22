@@ -17,6 +17,8 @@ Our approach is built on the principle that **AI should enhance human collaborat
 
 📖 See our complete [AI-Agile Manifesto Evolution](docs/overview/ai-agile-manifesto-evolution.md) for detailed comparison and implementation guidance.
 
+🔄 Looking to align with existing AI rollout plans? Check our [Alignment with Existing AI Rollout Plans](docs/overview/alignment-with-existing-ai-rollout-plans.md) for simplification recommendations.
+
 ## What's Inside
 
 ### 🎯 **Frameworks & Assessments**
