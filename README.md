@@ -1,101 +1,61 @@
-# AI-Integrated Transformation Roadmap
+# Agile Practitioner Evolution with AI
 
-A comprehensive framework for integrating AI into agile team topologies and organizational transformation while preserving human-centric Agile values.
+A framework for how Agile Practitioner roles must evolve as AI becomes integrated into software development workflows.
 
 ## Overview
 
-This repository provides a systematic approach to evolving Agile practices and team structures to effectively leverage AI capabilities while maintaining the core principles of the Agile Manifesto. It's designed for organizations looking to transform their software development practices through intelligent human-AI collaboration.
+This repository provides guidance on how Agile Practitioners can evolve their roles to effectively leverage AI capabilities while maintaining the human-centric principles of the Agile Manifesto.
 
 ## Core Philosophy
 
-Our approach is built on the principle that **AI should enhance human collaboration and decision-making, not replace it**. We focus on evolving the Agile Manifesto with AI enhancement:
-
-- **AI-Augmented Individuals and Interactions** over AI-driven processes and tools
-- **AI-Accelerated Working Software** over AI-generated comprehensive documentation
-- **AI-Amplified Customer Collaboration** over AI-mediated contract negotiation
-- **AI-Powered Responding to Change** over AI-optimized following a plan
-
-📖 See our complete [AI-Agile Manifesto Evolution](docs/overview/ai-agile-manifesto-evolution.md) for detailed comparison and implementation guidance.
-
-🔄 Looking to align with existing AI rollout plans? Check our [Alignment with Existing AI Rollout Plans](docs/overview/alignment-with-existing-ai-rollout-plans.md) for simplification recommendations.
+**AI should enhance human collaboration and decision-making, not replace it.** Agile Practitioners become orchestrators of human-AI collaboration while preserving the values that make Agile effective.
 
 ## What's Inside
 
-### 🎯 **Frameworks & Assessments**
-- AI maturity assessment for Agile practitioners
-- Team topology evolution patterns with AI integration
-- Human-AI collaboration effectiveness measurements
-- **🔗 Integrated with [Team Topology Assessment Toolkit](https://github.com/emarion1/team-topology-assessment)**
+### 📋 **Role Evolution Framework**
+- How Agile Practitioner responsibilities evolve with AI integration
+- Specific guidance for Organizational and Team-level Agilists
+- Implementation roadmap for role transformation
 
-### 📋 **Implementation Roadmap**
-- **Phase 0**: AI-Enhanced Baseline Assessment
-- **Phase 1**: AI-Team Topology Design
-- **Phase 2**: Integrated Implementation
-- **Phase 3**: Evolutionary AI-Team Topology
-- **🚀 [Unified Transformation Roadmap](implementation/unified-transformation-roadmap.md)** - Combined approach with Team Topology Assessment
+### 👥 **Role-Specific Guides**
+- **Organizational Agilist**: Evolution to "AI Transformation Leader"
+- **Team Agilist**: Specialized focuses on customer value and technical excellence
 
-### 🛠 **Tools & Templates**
-- Real-time team health monitoring dashboards
-- AI-enhanced flow metrics and success measurements
-- Working agreements templates for human-AI collaboration
+## Key Role Transformations
 
-### 👥 **Role Evolution Guides**
-- Organizational Agilist: AI Transformation Leader
-- Team Agilist: Customer Value AI Specialist
-- Team Agilist: Technical Excellence AI Specialist
+### **Organizational-Level Agilist: "AI Transformation Leader"**
+**Evolution**: From process facilitation to AI-human collaboration orchestration
+
+**New Responsibilities**:
+- AI Ethics and Human-Centricity Guardian
+- Intelligent Organization Designer
+- Cultural Evolution Catalyst
+
+### **Team-Level Agilists: "AI-Human Flow Specialists"**
+**Evolution**: From reactive coaching to proactive AI-human workflow design
+
+**Specialized Roles**:
+- **Customer Value AI Specialist**: Focus on AI systems connecting to customer value
+- **Technical Excellence AI Specialist**: Focus on AI enhancing technical practices
 
 ## Quick Start
 
-1. **Assess Current State**: Use our [AI-Readiness Assessment](assessments/ai-enhanced/ai-readiness-assessment.md)
-2. **Design Your Approach**: Follow the [Phase 0 Implementation Guide](implementation/phase-0-baseline/)
-3. **Start Small**: Pick one team and implement [basic AI-human workflows](examples/ai-workflows/)
-4. **Measure & Adapt**: Use our [success metrics framework](tools/measurement/) to track progress
+1. **Assess Current Role**: Review your current Agile Practitioner responsibilities
+2. **Understand Evolution**: Read the [Agile Practitioner Evolution Framework](docs/frameworks/agile-practitioner-evolution.md)
+3. **Plan Transformation**: Use the [Organizational Agilist Playbook](implementation/role-specific-guides/organizational-agilist-playbook.md)
 
-## Key Features
+## Documentation
 
-### 🔄 **AI Maturity Progression**
-- **Capable**: AI as Assistant (efficiency focus)
-- **Adoptive**: AI as Cognitive Partner (insight focus)
-- **Transformative**: AI as Scalable Coaching System (ecosystem focus)
-
-### 🏗 **Team Topology Integration**
-- Stream-aligned teams with AI-augmented value delivery
-- Platform teams providing AI services to other teams
-- Enabling teams coaching AI-human collaboration
-- Complicated subsystem teams leveraging AI for complex domains
-
-### 🤝 **Unified Transformation Approach**
-Combines the proven [Team Topology Assessment methodology](https://github.com/emarion1/team-topology-assessment) with AI integration:
-- **Structural + Intelligent Enhancement**: Optimal team design enhanced by AI capabilities
-- **Combined Assessment**: Integrated evaluation of team topology health and AI readiness
-- **Synergistic Implementation**: Team structure optimization amplifies AI effectiveness
-
-### 📊 **Enhanced Success Metrics**
-- Traditional flow metrics improved by AI
-- Human-AI collaboration quality measurements
-- Cognitive load reduction tracking
-- Customer value delivery acceleration
-
-## Success Stories
-
-- 40% reduction in cognitive load through AI automation
-- <1 week lead time with AI-assisted work breakdown
-- 90%+ team satisfaction with AI augmentation
-- 60% reduction in cross-team dependencies
+- [Agile Practitioner Evolution Framework](docs/frameworks/agile-practitioner-evolution.md) - Complete role evolution guide
+- [Organizational Agilist Playbook](implementation/role-specific-guides/organizational-agilist-playbook.md) - Detailed implementation guide
 
 ## Contributing
 
-We welcome contributions from practitioners implementing AI-enhanced Agile transformations. Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions from practitioners implementing AI-enhanced Agile transformations. Please open an issue or submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact & Community
-
-- 📧 Questions? Open an [issue](https://github.com/emarion1/AI-Integrated-Transformation-Roadmap/issues)
-- 💬 Join the discussion in [Discussions](https://github.com/emarion1/AI-Integrated-Transformation-Roadmap/discussions)
-- 🌟 Star this repo if it helps your transformation journey
 
 ---
 
