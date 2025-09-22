@@ -23,12 +23,14 @@ Our approach is built on the principle that **AI should enhance human collaborat
 - AI maturity assessment for Agile practitioners
 - Team topology evolution patterns with AI integration
 - Human-AI collaboration effectiveness measurements
+- **🔗 Integrated with [Team Topology Assessment Toolkit](https://github.com/emarion1/team-topology-assessment)**
 
 ### 📋 **Implementation Roadmap**
 - **Phase 0**: AI-Enhanced Baseline Assessment
 - **Phase 1**: AI-Team Topology Design
 - **Phase 2**: Integrated Implementation
 - **Phase 3**: Evolutionary AI-Team Topology
+- **🚀 [Unified Transformation Roadmap](implementation/unified-transformation-roadmap.md)** - Combined approach with Team Topology Assessment
 
 ### 🛠 **Tools & Templates**
 - Real-time team health monitoring dashboards
@@ -59,6 +61,12 @@ Our approach is built on the principle that **AI should enhance human collaborat
 - Platform teams providing AI services to other teams
 - Enabling teams coaching AI-human collaboration
 - Complicated subsystem teams leveraging AI for complex domains
+
+### 🤝 **Unified Transformation Approach**
+Combines the proven [Team Topology Assessment methodology](https://github.com/emarion1/team-topology-assessment) with AI integration:
+- **Structural + Intelligent Enhancement**: Optimal team design enhanced by AI capabilities
+- **Combined Assessment**: Integrated evaluation of team topology health and AI readiness
+- **Synergistic Implementation**: Team structure optimization amplifies AI effectiveness
 
 ### 📊 **Enhanced Success Metrics**
 - Traditional flow metrics improved by AI
